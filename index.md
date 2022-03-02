@@ -1,1 +1,0 @@
-## Cartografia Social - Wiki
