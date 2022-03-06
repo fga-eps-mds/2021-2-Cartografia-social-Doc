@@ -1,2 +1,11 @@
-site_name: Cartografia Social - Wiki
+site_name: Cartografia Social
+theme: 
+  name: material
 
+nav:
+  - Home: index.md
+  - Organização:
+    - EAP: eap.md
+    - Heatmap: heatmap.md
+    - Quadro de conhecimento: conhecimentos.md
+  - Lean Inception: leanInception.md
