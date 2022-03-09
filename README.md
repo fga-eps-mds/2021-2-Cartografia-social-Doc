@@ -17,6 +17,6 @@ Repositório destinado ao desenvolvimento da disciplina Engenharia de Produto de
 | 18/0119508 | Eric Chagas de Oliveira |
 | 13/0111147 | Gabriel do Nascimento de Carvalho |
 | 20/0019228 |	Gustavo Martins Ribeiro |
-| 1/90096373 |	Vinícius Alves de Sousa |
+| 19/0096373 |	Vinícius Alves de Sousa |
 | 19/0014776 |	Israel Thalles Dutra dos Santos |
 | 19/0055006 |	Gian Medeiros Rosa |
