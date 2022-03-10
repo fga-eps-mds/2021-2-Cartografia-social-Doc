@@ -1,8 +1,8 @@
 # <center> Backlog do Produto
 
-Introdução sobre o que é um backlog e pra que serve
+O Backlog de Produto ajuda a reunir e a organizar em uma lista as expectativas que o cliente tem sobre o produto. A construção do backlog faz necessário entender do funcionamento do fluxo de planejamento do produto, e após definidas as características desejadas, é montado um registro de funcionalidades a serem priorizadas e estimadas. Em suma, um backlog consiste em uma lista ordenada de tudo o que é necessário para maximizar o valor do produto, e é composta por itens que geralmente representam melhorias, correções e/ou débitos técnicos. Os épicos funcionam como módulos ou pacotes de trabalho que agregam histórias de usuários, que serão concluídas após quitarem os critérios de aceitação e, assim, o que for desenvolvido for suficiente para fazer o usuário chegar ao final da história.
 
-## Épicos 
+## Épicos
 
 ### E01 
 **Marcar pontos**
