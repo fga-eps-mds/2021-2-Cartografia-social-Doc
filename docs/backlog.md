@@ -7,27 +7,27 @@ Introdução sobre o que é um backlog e pra que serve
 ### E01 
 **Marcar pontos**
 
-Descrição do épico
+Épico relacionado com as marcações de pontos e áreas no mapa. As tarefas que se encaixam nesse épico estão relacionadas com a marcação de pontos, marcação de áreas e melhora da usabilidade das marcações. Também estão relacionadas com esse épico exclusão de pontos e tarefas relacionadas.
 
 ### E02
 **Incluir membros à comunidade virtual**
 
-Descrição do épico
+Esse épico é referente a inclusão de membros à comunidade virtual. O objetivo é que todos os membros da comunidade possam acessar o mapa e aplicativos da comunidade. Portanto o cadastro e controle de novos membro está relacionada a esse épico.
 
 ### E03
 **Funcionamento offline**
 
-Descrição do épico
+Um dos objetivos do aplicativo é ser *Offline First*, ou seja, o aplicativo deve ser capaz de funcionar offline, sem a necessidade de conexão com a internet, com isso as tarefas que envolvem o suporte para tal funcionalidade se relacionam com esse épico.
 
 ### E04
 **Gerenciar usuários**
 
-Descrição do épico
+Esse épico está relacionado ao gerenciamento dos usuários dentro do app, controle de permissões e acessos para determinadas ações e auditoria dos dados. A diferença desse épico para o **E02 - Incluir membros à comunidade virtual** é que o **E04** é responsável pelo controle e gerenciamento dos usuários dentro do app, enquanto o **E02** é responsável por inclusão de membros à comunidade virtual.
 
 ### E05
 **Exportar dados**
 
-Descrição do épico
+Ao criar pontos e áreas no mapa é importante a realização da exportação desses dados para que possam ser importados em outro dispositivo ou sistema. Esse épico está relacionado a essa exportação de dados, adaptação dos dados do app para dados externos e a importação de dados para o app.
 
 ### E06 
 **Gerenciar dados de uma comunidade tradicional**
