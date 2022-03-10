@@ -105,3 +105,4 @@ Similar ao **E05**, este épico diz respeito à exportação dos dados inseridos
 | -- | -- | -- | -- |
 | 09.03.2022 | 1.0 | Adição das Histórias de usuário e dos épicos  | Rafaella Junqueira <br> Larissa Sales |
 | 10.03.2022 | 1.1 | Adição das descrições dos épicos | Gustavo Marques |
+| 10.03.2022 | 1.2 | Refatoração dos épicos | Rafaella Junqueira <br> Larissa Sales |
