@@ -1,7 +1,5 @@
 # <center> Backlog do Produto
 
-<div align="justify">
-
 O Backlog de Produto ajuda a reunir e a organizar em uma lista as expectativas que o cliente tem sobre o produto. A construção do backlog faz necessário entender do funcionamento do fluxo de planejamento do produto, e após definidas as características desejadas, é montado um registro de funcionalidades a serem priorizadas e estimadas. Em suma, um backlog consiste em uma lista ordenada de tudo o que é necessário para maximizar o valor do produto, e é composta por itens que geralmente representam melhorias, correções e/ou débitos técnicos. Os épicos funcionam como módulos ou pacotes de trabalho que agregam histórias de usuários, que serão concluídas após quitarem os critérios de aceitação e, assim, o que for desenvolvido for suficiente para fazer o usuário chegar ao final da história.
 
 ## Épicos
@@ -65,7 +63,6 @@ Similar ao **E03**, este épico também se relaciona ao objetivo do aplicativo e
 **Exportar marcações da comunidade**
 
 Similar ao **E05**, este épico diz respeito à exportação dos dados inseridos em uma comunidade, porém, se restringe aos dados cartográficos. 
-</div>
 
 
 ## Histórias de Usuário 
