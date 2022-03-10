@@ -12,7 +12,7 @@ Introdução sobre o que é um backlog e pra que serve
 ### E02
 **Incluir membros à comunidade virtual**
 
-Esse épico é referente a inclusão de membros à comunidade virtual. O objetivo é que todos os membros da comunidade possam acessar o mapa e aplicativos da comunidade. Portanto o cadastro e controle de novos membro está relacionada a esse épico.
+Esse épico é referente a inclusão de membros à comunidade virtual. O objetivo é que todos os membros da comunidade possam acessar os mapa da comunidade no aplicativo. Portanto o cadastro e controle de novos membro está relacionada a esse épico.
 
 ### E03
 **Funcionamento offline**
