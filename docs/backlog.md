@@ -5,27 +5,31 @@ O Backlog de Produto ajuda a reunir e a organizar em uma lista as expectativas q
 ## Épicos
 
 ### E01 
-**Marcar pontos**
+<!-- **Marcar pontos** -->
+
+**Melhoria para marcação dos pontos**
 
 Épico relacionado com as marcações de pontos e áreas no mapa. As tarefas que se encaixam nesse épico estão relacionadas com a marcação de pontos, marcação de áreas e melhora da usabilidade das marcações. Também estão relacionadas com esse épico exclusão de pontos e tarefas associadas.
 
 ### E02
+
 **Incluir membros à comunidade virtual**
 
 Esse épico é referente a inclusão de membros à comunidade virtual. O objetivo é que todos os membros da comunidade possam acessar os mapa da comunidade no aplicativo. Portanto o cadastro e controle de novos membro está relacionada a esse épico.
 
 ### E03
-**Funcionamento offline**
+**Salvar pontos e áreas de forma offline**
 
-Um dos objetivos do aplicativo é ser *Offline First*, ou seja, o aplicativo deve ser capaz de funcionar offline, sem a necessidade de conexão com a internet, com isso as tarefas que envolvem o suporte para tal funcionalidade se relacionam com esse épico.
+Um dos objetivos do aplicativo é ser *Offline First*, ou seja, o aplicativo deve ser capaz de funcionar offline, sem a necessidade de conexão com a internet, com isso as tarefas a respeito da marcação de pontos de forma offline se relacionam com esse épico.
 
 ### E04
-**Gerenciar usuários**
+<!-- Para o zenhub: **Gerenciar usuários** -->
+**Validar solicitação de cadastro**
 
 Esse épico está relacionado ao gerenciamento dos usuários dentro do app e controle de permissões e acessos para determinadas ações. A diferença desse épico para o **E02 - Incluir membros à comunidade virtual** é que o **E04** é responsável pelo controle e gerenciamento dos usuários dentro do app, enquanto o **E02** é responsável por inclusão de membros à comunidade virtual.
 
 ### E05
-**Exportar dados**
+**Exportar relatório da comunidade**
 
 Ao criar pontos e áreas no mapa é importante a realização da exportação desses dados para que possam ser importados em outro dispositivo ou sistema. Esse épico está relacionado a essa exportação de dados, adaptação dos dados do app para dados externos e a importação de dados para o app.
 
@@ -49,6 +53,17 @@ Similar aos épicos **E04** e **E06**, o gerenciamento de comunidades virtuais �
 
 É responsabilidade desse épico gerenciar o histórico de acesso e permissões de usuário, fazer o controle de visibilidade dos dados, controle de permissões dentro de uma comunidade e controle de visibilidade dos dados da comunidade. Esse épico é importante para realizações de [auditoria](https://pt.wikipedia.org/wiki/Auditoria#:~:text=Auditoria%20%C3%A9%20um%20exame%20cuidadoso,conformidade) de dados, e ter uma visibilidade das ações que foram realizadas dentro do aplicativo.
 
+### E10
+
+**Salvar mídias de forma offline**
+
+Similar ao **E03**, este épico também se relaciona ao objetivo do aplicativo em ser *Offline First*. Tarefas ligadas à inserção de mídias sem o uso de internet se relacionam com esse épico.
+
+### E11
+**Exportar marcações da comunidade**
+
+Similar ao **E05**, este épico diz respeito à exportação dos dados inseridos em uma comunidade, porém, se restringe aos dados cartográficos. 
+
 
 ## Histórias de Usuário 
 
@@ -59,7 +74,7 @@ Similar aos épicos **E04** e **E06**, o gerenciamento de comunidades virtuais �
 | US03 | Usuário | Marcar pontos e áreas sem ter conexão com a internet | Delimitar áreas em locais que não possuem sinal | E03 |
 | US04 | Usuário | Me cadastrar no aplicativo | Contribuir com o projeto Nova Cartografia Social | E04 |
 | US05 | Pesquisador | Exportar informações sobre uma comunidade | Manter registro das pessoas dessa comunidade | E05 |
-| US06 | Pesquisador | Exportar dados geográficos detalhados spbre uma comunidade | Manter registro dos territórios dessa comunidade | E05 |
+| US06 | Pesquisador | Exportar dados geográficos detalhados spbre uma comunidade | Manter registro dos territórios dessa comunidade | E11 |
 | US07 | Mantenedores | Validar o cadastro de novos usuários | Permitir o acesso de novos membros à uma comunidade virtual | E04 |
 | US08 | Líder da comunidade virtual | Validar os dados inseridos por membros de uma comunidade virtual sobre um território | Garantir a acurácia dos dados que serão apresentados no aplicativo |  E06 |
 | US09 | Usuário | Criar, ler, atualizar e excluir dados sobre uma comunidade virtual | Gerenciar corretamente os dados | E06 |
@@ -69,7 +84,7 @@ Similar aos épicos **E04** e **E06**, o gerenciamento de comunidades virtuais �
 | US13 | Usuário | Editar as informações do meu perfil | Manter minhas informações atualizadas | E04 |
 | US14 | Líder da comunidade virtual | Ver quem marcou pontos e áreas no aplicativo | Controlar a inserção de dados e manter a rastreabilidade de origem das informações | E09 |
 | US15 | Pesquisador | Exportar mídias referentes a uma comunidade virtual | Manter registro midiáticos dessa comunidade | E05 |
-| US16 | Usuário | Inserir fotos, áudios e/ou vídeos sem ter conexão com a internet | Salvar mídias em locais que não possuem sinal | E03 |
+| US16 | Usuário | Inserir fotos, áudios e/ou vídeos sem ter conexão com a internet | Salvar mídias em locais que não possuem sinal | E10 |
 
 
 ## Critérios de Aceitação
