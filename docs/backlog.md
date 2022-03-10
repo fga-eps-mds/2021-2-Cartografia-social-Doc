@@ -89,3 +89,4 @@ Similar aos épicos **E04** e **E06**, o gerenciamento de comunidades virtuais �
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |
 | 09.03.2022 | 1.0 | Adição das Histórias de usuário e dos épicos  | Rafaella Junqueira <br> Larissa Sales |
+| 10.03.2022 | 1.1 | Adição das descrições dos épicos | Gustavo Marques |
