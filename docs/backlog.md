@@ -7,7 +7,7 @@ Introdução sobre o que é um backlog e pra que serve
 ### E01 
 **Marcar pontos**
 
-Épico relacionado com as marcações de pontos e áreas no mapa. As tarefas que se encaixam nesse épico estão relacionadas com a marcação de pontos, marcação de áreas e melhora da usabilidade das marcações. Também estão relacionadas com esse épico exclusão de pontos e tarefas relacionadas.
+Épico relacionado com as marcações de pontos e áreas no mapa. As tarefas que se encaixam nesse épico estão relacionadas com a marcação de pontos, marcação de áreas e melhora da usabilidade das marcações. Também estão relacionadas com esse épico exclusão de pontos e tarefas associadas.
 
 ### E02
 **Incluir membros à comunidade virtual**
