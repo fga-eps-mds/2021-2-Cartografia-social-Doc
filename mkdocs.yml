@@ -8,5 +8,5 @@ nav:
     - EAP: eap.md
     - Heatmap: heatmap.md
     - Quadro de conhecimento: conhecimentos.md
-  - Lean Inception: leanInception.md
-  - Backlog: backlog.md
+  - Visão do Produto: leanInception.md
+  - Backlog do Produto: backlog.md
