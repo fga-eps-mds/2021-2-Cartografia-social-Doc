@@ -5,6 +5,7 @@ theme:
 nav:
   - Home: index.md
   - Organização:
+    - Metodologia utilizada: metodologia.md
     - EAP: eap.md
     - Heatmap: heatmap.md
     - Quadro de conhecimento: conhecimentos.md
