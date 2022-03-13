@@ -89,27 +89,42 @@ Resultado da Composição do impacto do risco com a probabilidade da sua ocorrê
 | **Muito Baixa** | Baixo | Baixo | Médio | Elevado | Elevado | 
 
 ## Levantamento de Riscos
+
 | ID | Hipótese | Motivo | Consequência | EAR |
 |---|---|---|---|---|
 | R01 | O projeto não atender aos requisitos | Levantamento de requisitos mal elaborado ou falta de validação contínua | Atraso na entrega e nova definição dos requisitos | Requisitos |
 | R02 | Baixa qualidade do produto final | Entregas ruins do time de desenvolvimento | Refatoração do produto | Qualidade |
-|  | Time de desenvolvimento com dificuldades de aplicar as tecnologias | Falta de conhecimento das tecnologias | Não entrega do produto | Complexidade |
-|  | Dificuldade em realizar testes na aplicação | Falta de conhecimento em testes | Atraso na entrega das histórias | Complexidade |
-|  | Não automatização de deploy ou integração contínua | Falta de conhecimento | Atraso nas entregas em ambiente de produção | Complexidade |
-|  | Não planejamento e execução seguindo a proposta de arquitetura | Falta de conhecimento nas tecnologias | Atraso no desenvolvimento | Complexidade |
-|  | Cancelamento do projeto | Interrupção do projeto que deu origem ao desenvolvimento do aplicativo (Nova Cartografia Social da Amazônia) | Cancelamento do projeto | Cliente |
-|  | Interrupção das aulas/projeto | Nova onda de contaminações por causa do COVID-19 | Cancelamento do projeto | Pandemia |
-|  | Mal planejamento das histórias de usuário | Mal planejamento da sprint | Atraso na entrega do produto | Planejamento |
-|  | Mudança no escopo do projeto | Mal planejamento do backlog | Atraso na entrega do produto | Planejamento |
-|  | Falta de comunicação efetiva entre os membros da equipe | Não utilização dos meios de comunicação estabelecidos | Falta de alinhamento entre a equipe | Comunicação |
-|  | Abandono do projeto por parte de membros da equipe | Necessidade de trancamento da matéria | Atraso na entrega do produto | Recursos |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| R03 | Time de desenvolvimento com dificuldades de aplicar as tecnologias | Falta de conhecimento das tecnologias | Não entrega do produto | Complexidade |
+| R04 | Dificuldade em realizar testes na aplicação | Falta de conhecimento em testes | Atraso na entrega das histórias | Complexidade |
+| R05 | Não automatização de deploy ou integração contínua | Falta de conhecimento | Atraso nas entregas em ambiente de produção | Complexidade |
+| R06 | Não planejamento e execução seguindo a proposta de arquitetura | Falta de conhecimento nas tecnologias | Atraso no desenvolvimento | Complexidade |
+| R07 | Cancelamento do projeto | Interrupção do projeto que deu origem ao desenvolvimento do aplicativo (Nova Cartografia Social da Amazônia) | Cancelamento do projeto | Cliente |
+| R08 | Interrupção das aulas/projeto | Nova onda de contaminações por causa do COVID-19 | Cancelamento do projeto | Pandemia |
+| R09 | Mal planejamento das histórias de usuário | Mal planejamento da sprint | Atraso na entrega do produto | Planejamento e Estimativa |
+| R10 | Mudança no escopo do projeto | Mal planejamento do backlog | Atraso na entrega do produto | Planejamento |
+| R11 | Falta de comunicação efetiva entre os membros da equipe | Não utilização dos meios de comunicação estabelecidos | Falta de alinhamento entre a equipe | Comunicação |
+| R12 | Abandono do projeto por parte de membros da equipe | Necessidade de trancamento da matéria | Atraso na entrega do produto | Recursos |
+| R13 | Equipamento de algum dos membros parar de funcionar | Danos elétricos nos equipamentos | Atraso na entrega do produto | Recursos |
+| R14 | Ambiente de trabalho inadequado | Problemas de conexão com a internet ou muito barulho | Baixa produtividade | Dependência |
 
-## Medidas de Gerência e Mitigação
+## Medidas de Gerenciamento e Mitigação
+
 | ID | Impacto | Probabilidade | Nível | Mitigação |
+|---|---|---|---|---|
+| R01 | Sério | Baixa | Elevado | Validação contínua com clientes |
+| R02 | Moderado | Baixa | Médio | Comunicação efetiva e apoio entre os membros |
+| R03 | Pequeno | Baixa | Baixo | Estudo das tecnologias e pareamento para aprendizagem |
+| R04 | Pequeno | Moderada | Médio | Estudo das técnicas e pareamento para aprendizagem |
+| R05 | Sério | Baixo | Elevado | Estudo das técnicas e pareamento para aprendizagem |
+| R06 | Sério | Baixa | Elevado | Estudo da arquitetura e pareamento para aprendizagem |
+| R07 | Crítico | Muito Baixa | Elevado | Alinhamento constante com clientes para conhecimento suficiente para finalizar o desenvolvimento  |
+| R08 | Crítico | Moderada | Extremo | Cuidados com a saúde seguindo os protocolos de segurança |
+| R09 | Pequeno | Baixa | Baixo | Validação contínua com clientes e comunicação efetiva entre os membros |
+| R10 | Sério | Muito Baixa | Elevado | Validação contínua com clientes |
+| R11 | Moderado | Baixa | Médio | Engajamento por parte dos membros |
+| R12 | Sério | Moderada | Extremo | Comunicação efetiva entre os membros e divisão justa das atividades para não haver sobrecarga |
+| R13 | Moderado | Moderada | Elevado | Comunicação efetiva entre membros e pareamento |
+| R14 | Moderado | Baixa | Médio | Comunicação efetiva entre membros e busca por alternativas válidas |
 
 ## Referências
 
@@ -117,10 +132,9 @@ TERLIZZI, Marco Alexandre & BIANCOLINO, César Augusto. Estrutura Analítica de 
 
 ISOTANI, Seiji & ROCHA, Rafaela V. **Gestão de Riscos em Projetos de Software**. USP. Disponível em: <<https://edisciplinas.usp.br/pluginfile.php/3385127/mod_resource/content/1/Aula10-GerenciaProjeto-Riscos.pdf>>. Acesso em: 12 de mar de 2022.
 
-Lansdowne Z. F. (1999), Risk matrix: an approach for prioritizing risks and tracking risk litigation
-progress; Proceedings of the 30th Annual Project Management Institute Seminars & Symposium.
-
 VELOSO, Lee. Matriz de Risco: veja as principais etapas para aplicá-la! **MOKI**, 2021. Disponível em: <<https://site.moki.com.br/matriz-de-risco/#:~:text=Como%20funciona%20a%20matriz%20de%20risco%3F,devem%20ter%20prioridade%20de%20tratamento.>>. Acesso em: 12 de mar de 2022.
+
+LEOPOLDINO, Cláudio Bezerra. **Avaliação de Riscos em Desenvolvimento de Software**. Orientador: Denis Borenstein. 2004. 151 f. Dissertação de Mestrado - Curso de Administração, Escola de Administração, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2004. Disponível em: <<https://www.lume.ufrgs.br/bitstream/handle/10183/4616/000413617.pdf?sequence=>>  
 
 JUNCKES, Gabriel Dias & MORGADO, Paulo. Gerência de riscos em desenvolvimento de software. **DEVMEDIA**, 2013. Disponível em: <<https://www.devmedia.com.br/gerencia-de-riscos-em-desenvolvimento-de-software/28506>>. Acesso em: 12 de mar de 2022.
 ## Histórico de versão
