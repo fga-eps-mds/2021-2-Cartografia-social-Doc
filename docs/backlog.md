@@ -106,7 +106,7 @@ Similar ao **E05**, este épico diz respeito à exportação dos dados inseridos
 - Usuário consegue sincronizar os dados com a internet quando obtiver acesso
 
 
-### Histórico de versão
+## Histórico de versão
 
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |
