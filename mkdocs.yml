@@ -1,14 +1,28 @@
 site_name: Cartografia Social
+
+repo_name: "2021-2-Cartografia-social-Docs"
+repo_url: "https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc"
+
 theme: 
   name: material
+  # custom_dir: material
+  language: pt
+  logo: img/logo.jpg
+  favicon: img/logo.jpg
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
 
 nav:
   - Home: index.md
   - Organização:
     - Metodologia utilizada: metodologia.md
-    - EAP: eap.md
     - Heatmap: heatmap.md
     - Quadro de conhecimento: conhecimentos.md
+    - EAP: eap.md
+    - Gráfico de Gantt: index.md
   - Produto: 
     - Lean Inception: leanInception.md
     - Backlog do Produto: backlog.md
+    - Plano de Custos: custos.md
