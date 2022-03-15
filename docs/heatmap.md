@@ -11,7 +11,7 @@ O quadro abaixo representa a disponibilidade de cada integrante para cada horár
 
 [<div align="center"><img width="auto" height="auto" src="../img/organizacao/heatmap.png"/></div>](../../img/organizacao/heatmap.png)
 
-### Histórico de versão
+## Histórico de versão
 
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |

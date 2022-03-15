@@ -6,7 +6,7 @@ O objetivo deste método é alinhar o entendimento entre as áreas de negócio e
 Após realizada toda a agenda do Lean Inception, este documento formaliza o resultado final de cada etapa e servirá como base teórica para o desenvolvimento do que foi proposto.
 </div><br>
 
-# 1. Visão do produto
+## 1. Visão do produto
 <div align="justify">
 A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançamento do MVP. Ele ajuda a definir a visão do produto de modo colaborativo e definir a essência do valor de negócio, refletindo uma mensagem clara e convincente para os clientes.
 </div><br>
@@ -18,7 +18,7 @@ A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançame
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/visaoDoProduto.png"/></div>](../../img/leanInception/visaoDoProduto.png)
 
 
-# 2. "É/ Não é" e "Faz/ Não Faz"
+## 2. "É/ Não é" e "Faz/ Não Faz"
 <div align="justify">
 Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Tem o objetivo de transmitir aos envolvidos uma visão mais alinhada a respeito do que o produto faz, o que o produto não faz, o que ele é e o que não é.
 </div><br>
@@ -29,7 +29,7 @@ Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil 
 
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/fazNaoFaz.png"/></div>](../../img/leanInception/fazNaoFaz.png)
 
-# 3. Objetivos do produto
+## 3. Objetivos do produto
 <div align="justify">
 Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo com os objetivos gerais do negócio.
 </div><br>
@@ -40,7 +40,7 @@ Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivo
 
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/objNegocios.png"/></div>](../../img/leanInception/objNegocios.png)
 
-# 4. Personas
+## 4. Personas
 <div align="justify">
 A criação de personas serve para representar um usuário do sistema, descrevendo o seu papel e suas necessidades específicas. Assim, é possíve identificar as funcionalidades do sistema por meio de representações de quem se espera obter como de usuários, auxiliando o time a descrever funcionalidades do ponto de vista de quem irá interagir com o produto final. 
 <br>
@@ -66,7 +66,7 @@ Foram criadas 3 personas para este produto, conforme imagens a seguir:
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/persona3.png"/></div>](../../img/leanInception/persona3.png)
 
 
-# 5. Jornadas do usuário
+## 5. Jornadas do usuário
 <div align="justify">
 A jornada descreve o percurso de um usuário por uma sequência de passos para alcançar um objetivo. Alguns destes passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.
 </div><br>
@@ -89,7 +89,7 @@ A jornada descreve o percurso de um usuário por uma sequência de passos para a
 
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/jornada2.png"/></div>](../../img/leanInception/jornada2.png)
 
-# 6. Brainstorming de funcionalidades
+## 6. Brainstorming de funcionalidades
 <div align="justify">
 Uma funcionalidade representa uma ação ou interação de um usuário com o produto. O brainstorming de funcionalidades,também chamada de tempestade de ideias, é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião na qual os participantes expõem suas sugestões e debatem sobre as contribuições do coletivo. No âmbito de software o brainstorming serve para que os participantes deem ideias de funcionalidades do produto.
 </div><br>
@@ -100,7 +100,7 @@ Uma funcionalidade representa uma ação ou interação de um usuário com o pro
 
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/funcionalidades.png"/></div>](../../img/leanInception/funcionalidades.png)
 
-# 7. Revisão técnica, de negócio e de UX
+## 7. Revisão técnica, de negócio e de UX
 <div align="justify">
 Nesta atividade os participantes representam as funcionalidades do produto com suas cores e marcações indicando nível de incerteza, esforço e percepção de valor para o negócio e para os usuários, para que assim fique mais fácil de priorizar posteriormente.
 <br>
@@ -113,7 +113,7 @@ A marcação de cada funcionalidade é dada a partir de um mapa de 2 eixos, onde
 
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/revisaoUX.png"/></div>](../../img/leanInception/revisaoUX.png)
 
-# 8. Sequenciador
+## 8. Sequenciador
 <div align="justify">
 O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental do produto. As ondas carregam as funcionalidades que serão desenvolvidas em ordem de priorização, seguindo as regras de:
 <ul>
@@ -133,7 +133,7 @@ O Sequenciador de funcionalidades auxilia na organização e visualização das 
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/mvp.png"/></div>](../../img/leanInception/mvp.png)
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/incremento.png"/></div>](../../img/leanInception/incremento.png)
 
-# 9. Canvas MVP
+## 9. Canvas MVP
 <div align="justify">
 O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizada para o negócio (produto mínimo) e que possa ser efetivamente utilizado e validado pelo usuário final (produto viável).
 </div><br>
@@ -145,7 +145,7 @@ O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estr
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/canvas.png"/></div>](../../img/leanInception/canvas.png)
 
 
-# MURAL
+## MURAL
 
 O MURAL completo e navegável contendo todas as etapas aqui descrita pode ser enalisado clicando sobre a imagem abaixo.
 
@@ -160,7 +160,7 @@ O MURAL completo e navegável contendo todas as etapas aqui descrita pode ser en
 
 **CAROLI, Paulo**. _Lean Inception: como alinhar pessoas e construir o produto certo_, 2019.
 
-### Histórico de versão
+## Histórico de versão
 
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |

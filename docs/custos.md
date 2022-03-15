@@ -5,7 +5,7 @@
 
 </div>
 
-# Custos de pessoal
+## Custos de pessoal
 <p align="justify">
 O custo com pessoal considerando o contexto da disciplina, em que a equipe é formada por 11 integrantes de graduação em Engenharia de Software, foi calculado utilizando a média de 1500,00 reais como valor para bolsas de estágio na área de software, conforme <a href="https://www.glassdoor.com.br/Sal%C3%A1rios/estagi%C3%A1rio-de-desenvolvimento-de-software-sal%C3%A1rio-SRCH_KO0,41.htm">indicativo pesquisado</a>. O cálculo realizado é dado por:
 </p>
@@ -14,7 +14,7 @@ O custo com pessoal considerando o contexto da disciplina, em que a equipe é fo
 
 <br>
 
-# Custos com equipamentos
+## Custos com equipamentos
 <p align="justify">
 A aquisição de equipamentos de trabalho é um dos fatores considerados para o custo, de modo que foi levantado um comparativo de preços baseado nas seguintes especificações necessárias para excutar um projeto que utiliza emulador para aplicações mobile. As especificiações são: processador Intel Core i7, 8GB de memória RAM e presença de SSD. O preço unitário que consta na tabela foi obtida pela média de preço dos 6 notebooks com os melhores preços disponibilizados no <a href="https://www.zoom.com.br/notebook/processador-intel-core-i7/memoria-8-gb/com-ssd?gclid=CjwKCAiAprGRBhBgEiwANJEY7MAyC31o06LebTeoZr92ZIhMxZZjt9IvXxfKhQJDJGORoRvrxRn6iRoCiCkQAvD_BwE&og%5B0%5D=18000&og%5B1%5D=18000&pageTitle=Notebook+Intel+Core+i7+8+GB&q=&sortBy=price_asc">site de comparativos</a>. O cálculo realizado é dado por:
 </p>
@@ -22,7 +22,7 @@ A aquisição de equipamentos de trabalho é um dos fatores considerados para o 
 
 <br>
 
-# Custos adicionais
+## Custos adicionais
 <p align="justify">
 O desenvolvimento do projeto requer um o gasto energético associado ao uso contínudo dos equipamentos adquiridos e especificados no item anterior. Assim, baseado no preço do KWh dado por R$11,85 da região de Brasília, disponível para consulta no site de tarifas da <a href="https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/aneel-cria-nova-bandeira-tarifaria-e-conta-de-luz-fica-mais-cara#:~:text=Custo%20de%20100%20kilowatt%2Dhora,R%24%2014%2C20%20at%C3%A9%20abril">ANEEL</a>, e no consumo energético de 0,065 KW, foi feita a tabela de custos adicionais em termos de gasto energérico.<br>
 O cálculo utilizado para montar a tabela é dado por:
@@ -38,7 +38,7 @@ Em termos de gastos com internet, a média de preço de internet em Brasília es
 
 <br>
 
-# Análise do Valor Agregado (EVM)
+## Análise do Valor Agregado (EVM)
 <p align="justify">
 A Análise do Valor Agregado (EVM - Earned Value Management) é um método de mensuração do desempenho desenvolvido para estabelecer padrões de análise de contratos que considerassem não somente os custos e prazos mas também a performance e a eficiência do projeto.
 </p>
@@ -66,7 +66,7 @@ WRIKE, Agile EVM, 2022. Disponível em: [https://www.wrike.com/agile-guide/faq/w
 
 Preço para publicar um aplicativo na Play Store, Disponível em: [https://support.google.com/googleplay/android-developer/answer/10281818?hl=pt-BR](https://support.google.com/googleplay/android-developer/answer/10281818?hl=pt-BR)
 
-### Histórico de versão
+## Histórico de versão
 
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |

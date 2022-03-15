@@ -34,7 +34,7 @@ Para melhor visualização, cada etapa do EAP será mostrada separadamente a seg
 [<div align="center"><img width="auto" height="auto" src="../img/organizacao/eapDev.png"/></div>](../../img/organizacao/eapDev.png)
 
 
-### Histórico de versão
+## Histórico de versão
 
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |

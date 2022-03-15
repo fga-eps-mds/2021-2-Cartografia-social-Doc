@@ -18,7 +18,7 @@ O quadro abaixo representa as tecnologias e cada integrante marcou seu nível de
 
 [<div align="center"><img width="auto" height="auto" src="../img/organizacao/quadroConhecimento.png"/></div>](../../img/organizacao/quadroConhecimento.png)
 
-### Histórico de versão
+## Histórico de versão
 
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |
