@@ -38,20 +38,6 @@ Em termos de gastos com internet, a média de preço de internet em Brasília es
 
 <br>
 
-## Análise do Valor Agregado (EVM)
-<p align="justify">
-A Análise do Valor Agregado (EVM - Earned Value Management) é um método de mensuração do desempenho desenvolvido para estabelecer padrões de análise de contratos que considerassem não somente os custos e prazos mas também a performance e a eficiência do projeto.
-</p>
-<p align="justify">
-Assim, a Análise do Valor Agregado tem como foco integrar as medições de Cronograma, Escopo e Custo a fim de estabelecer uma relação entre o produto obtido e os custos reais gerados. Dessa forma, é mensurado o valor do trabalho realmente entregue em relação ao que foi planejado gastar e ao que se realmente gastou.
-</p>
-<p align="justify">
-O Agile EVM é uma adaptação do modelo tradicional, é uma técnica usada para medir o desempenho de um projeto ágil em relação a três fatores principais: Custo, Tempo e Alcance. O Agile EVM permite que a comparação do plano da <i>release</i> com o trabalho real realizado. Isso é importante porque ajuda a equipe a identificar quaisquer áreas problemáticas e garantir que elas permaneçam dentro do cronograma e do orçamento.
-</p>
-<p align="justify">
-Para o mapeamento dos custos do projeto atual, foram utilizadas estruturas de divisão dos gastos por semana de trabalho, com recorrentes atualizações para se adaptar à realidade de custos do projeto em andamento, como a adição dos gastos por Release.
-</p>
-
 ## Referências
 
 GLASSDOOR, Salário de estagiários Engenharia de Software, Brasil. mar. 2022 Disponível em: [https://www.glassdoor.com.br/Sal%C3%A1rios/estagi%C3%A1rio-de-desenvolvimento-de-software-sal%C3%A1rio-SRCH_KO0,41.htm](https://www.glassdoor.com.br/Sal%C3%A1rios/estagi%C3%A1rio-de-desenvolvimento-de-software-sal%C3%A1rio-SRCH_KO0,41.htm)
