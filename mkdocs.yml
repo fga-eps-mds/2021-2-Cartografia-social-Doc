@@ -23,6 +23,6 @@ nav:
     # - Gráfico de Gantt: index.md
   - Produto: 
     - Visão do Produto: leanInception.md
-    - Backlog do Produto: backlog.md
     - Plano de Custos: custos.md
     - Plano de Gerenciamento de Riscos: riscos.md
+    - Documento de arquitetura: arquitetura.md

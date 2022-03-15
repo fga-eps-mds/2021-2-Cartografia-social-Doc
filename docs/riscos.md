@@ -113,13 +113,13 @@ Resultado da Composição do impacto do risco com a probabilidade da sua ocorrê
 |---|---|---|---|---|
 | R01 | Sério | Baixa | Elevado | Validação contínua com clientes |
 | R02 | Moderado | Baixa | Médio | Comunicação efetiva e apoio entre os membros |
-| R03 | Pequeno | Baixa | Baixo | Estudo das tecnologias e pareamento para aprendizagem |
+| R03 | Sério | Moderada | Extremo | Estudo das tecnologias e pareamento para aprendizagem |
 | R04 | Pequeno | Moderada | Médio | Estudo das técnicas e pareamento para aprendizagem |
 | R05 | Sério | Baixo | Elevado | Estudo das técnicas e pareamento para aprendizagem |
 | R06 | Sério | Baixa | Elevado | Estudo da arquitetura e pareamento para aprendizagem |
 | R07 | Crítico | Muito Baixa | Elevado | Alinhamento constante com clientes para conhecimento suficiente para finalizar o desenvolvimento  |
 | R08 | Crítico | Moderada | Extremo | Cuidados com a saúde seguindo os protocolos de segurança |
-| R09 | Pequeno | Baixa | Baixo | Validação contínua com clientes e comunicação efetiva entre os membros |
+| R09 | Sério | Baixa | Médio | Validação contínua com clientes e comunicação efetiva entre os membros |
 | R10 | Sério | Muito Baixa | Elevado | Validação contínua com clientes |
 | R11 | Moderado | Baixa | Médio | Engajamento por parte dos membros |
 | R12 | Sério | Moderada | Extremo | Comunicação efetiva entre os membros e divisão justa das atividades para não haver sobrecarga |
