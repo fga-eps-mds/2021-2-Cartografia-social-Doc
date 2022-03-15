@@ -144,8 +144,25 @@ O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estr
 
 [<div align="center"><img width="auto" height="auto" src="../img/leanInception/canvas.png"/></div>](../../img/leanInception/canvas.png)
 
+
+# MURAL
+
+O MURAL completo e navegável contendo todas as etapas aqui descrita pode ser enalisado clicando sobre a imagem abaixo.
+
+<figcaption><center>
+    <b>Figura 14- MURAL completo</b>
+</figcaption>
+
+[<div align="center"><img width="auto" height="auto" src="../img/leanInception/mural.png"/></div>](https://app.mural.co/invitation/mural/unbfgaepsmds202111846/1644326822459?sender=ua4a5d97b99aa0006fa2a0546&key=b27666d4-fc69-4956-b5bc-db92c3f240d1)
+
+
+## Referências
+
+**CAROLI, Paulo**. _Lean Inception: como alinhar pessoas e construir o produto certo_, 2019.
+
 ### Histórico de versão
 
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |
 | 06.03.2022 | 1.0 | Adição do conteúdo produzido durante o processo de Lean Inception | Rafaella Junqueira |
+| 10.03.2022 | 1.1 | Adição do direcionador ao MURAL do Lean Inception | Rafaella Junqueira |
