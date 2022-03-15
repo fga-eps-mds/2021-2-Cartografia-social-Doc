@@ -5,7 +5,6 @@ repo_url: "https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc"
 
 theme: 
   name: material
-  # custom_dir: material
   language: pt
   logo: img/logo.jpg
   favicon: img/logo.jpg
@@ -21,11 +20,9 @@ nav:
     - Heatmap: heatmap.md
     - Quadro de conhecimento: conhecimentos.md
     - EAP: eap.md
-    - Gráfico de Gantt: index.md
+    # - Gráfico de Gantt: index.md
   - Produto: 
-    - Lean Inception: leanInception.md
+    - Visão do Produto: leanInception.md
     - Backlog do Produto: backlog.md
     - Plano de Custos: custos.md
     - Plano de Gerenciamento de Riscos: riscos.md
-  - Visão do Produto: leanInception.md
-  - Backlog do Produto: backlog.md
