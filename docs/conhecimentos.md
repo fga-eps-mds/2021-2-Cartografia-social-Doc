@@ -17,7 +17,7 @@ O quadro abaixo representa as tecnologias e cada integrante marcou seu nível de
 </figcaption>
     
 <div align="center">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRixdhX8xdQ3kBAs2xtOTL1Vv9cc05ZQIp0rwOmRjl0rlKkSVCYgbAyVv2FKjjFkg/pubhtml?gid=632600562&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRixdhX8xdQ3kBAs2xtOTL1Vv9cc05ZQIp0rwOmRjl0rlKkSVCYgbAyVv2FKjjFkg/pubhtml?gid=632600562&amp;single=true&amp;widget=true&amp;headers=false"  width="100%" height="550px" ></iframe>
 </div>
 
 ## Histórico de versão
