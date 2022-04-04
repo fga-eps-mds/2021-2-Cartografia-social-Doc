@@ -15,8 +15,10 @@ O quadro abaixo representa as tecnologias e cada integrante marcou seu nível de
 <figcaption><center>
     <b>Figura 1 - Quadro de conhecimento da equipe</b>
 </figcaption>
-
-[<div align="center"><img width="auto" height="auto" src="../img/organizacao/quadroConhecimento.png"/></div>](../../img/organizacao/quadroConhecimento.png)
+    
+<div align="center">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRixdhX8xdQ3kBAs2xtOTL1Vv9cc05ZQIp0rwOmRjl0rlKkSVCYgbAyVv2FKjjFkg/pubhtml?gid=632600562&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</div>
 
 ## Histórico de versão
 
