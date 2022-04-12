@@ -1,14 +1,13 @@
 # <center> Plano de Custos
 
-<div align="center">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRja77DvL978AQy33t9ew8fUiFNaPJSJ8W7uSPnAYWZKcEiPKDzO9gN5XV2-Npy10E6TjE_wics1pR2/pubhtml?widget=true&amp;headers=false" width="100%" height="660px"></iframe>
-
-</div>
-
 ## Custos de pessoal
 <p align="justify">
-O custo com pessoal considerando o contexto da disciplina, em que a equipe é formada por 11 integrantes de graduação em Engenharia de Software, foi calculado utilizando a média de 1500,00 reais como valor para bolsas de estágio na área de software, conforme <a href="https://www.glassdoor.com.br/Sal%C3%A1rios/estagi%C3%A1rio-de-desenvolvimento-de-software-sal%C3%A1rio-SRCH_KO0,41.htm">indicativo pesquisado</a>. O cálculo realizado é dado por:
+O custo com pessoal considerando o contexto da disciplina, em que a equipe é formada por 11 integrantes de graduação em Engenharia de Software. O cálculo valor / hora utilizado foi baseado nos valores apresentados pelo Infográfico do <a href="https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html">O Globo</a> que conta com informações sobre universidades públicas de todo o Brasil.
 </p>
+<img align="center" src="../img/precoAlunoUnB.png">
+
+A partir do valor de R$ 38.805,00 anual, que é o custo por estudante universitário federal, o cálculo para estimativa de custo com pessoal levou em consideração o valor por dia e a quantidade de dias do projeto durante o semestre, conforme disposto na planilha ao início do documento. Assim, o cálculo para o custo total se dá por:
+
 
 >```Quantidade de integrantes``` X ```Valor por dia``` x ```Quantidade de dias do projeto``` = ```Custo total com pessoal```
 
@@ -38,6 +37,94 @@ Em termos de gastos com internet, a média de preço de internet em Brasília es
 
 <br>
 
+## Custos de Publicação
+<p align="justify">
+O custo de publicação foi levado em consideração os o valores base para hospedagem em nuvem e de uma conta de desenvolvedor para  o para disponibilização do aplicativo nas loja de aplicativos PlayStore. A conta de desenvolvedor é cobrada em Dólar americano e para o cálculo do gasto, foi feita uma equivalência com o Real brasileiro de acordo com a cotação do dia 04 de abril de 2022.
+</p>
+
+
+<div align="center">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRja77DvL978AQy33t9ew8fUiFNaPJSJ8W7uSPnAYWZKcEiPKDzO9gN5XV2-Npy10E6TjE_wics1pR2/pubhtml?widget=true&amp;headers=false" width="100%" height="452px"></iframe>
+</div>
+
+> Obs.: A planilha diretamente no Google Sheets pode ser vista clicando neste [LINK.](https://docs.google.com/spreadsheets/d/1_l79D5zpG-w5VcJnBVlMIszjD3x8C0NvxUiSK4WNKlE/edit?usp=sharing)
+
+
+## Agile EVM
+<p align="justify">
+EVM (Earned Value Management) é uma metodologia de gerenciamento de projeto que integra cronograma, custos e escopo para medir o desempenho do projeto. Com base em valores planejados e reais, o EVM prevê o futuro e permite que os gerentes de projeto ajustem oq eu for preciso ao longo do processo. Além disso, é utilizada para integrar escopo, cronograma e recursos em gerência de projetos, que consiste em medir objetivamente o desempenho e o progresso do projeto comparando custos (real e planejado) e valor agregado.
+<br>
+Esse documento está em constante evolução já que as sprints têm tempo de duração de 7 dias, e ao longo delas várias tarefas são entregues e vários pontos são completados.
+</p>
+
+<!-- ### Parâmetros base
+
+| Nome | Definição | 
+| --- | --- |
+| TS | Total de Spints por Release (considerando todas as Sprints com duração de 7 dias |
+| PP | Planned Points - Pontos Planejados por Release |
+| PB | Planned Budget - Orçamento Planejado por Release | -->
+
+### Parâmetros das Sprints
+
+| Nome | Definição | 
+| --- | --- |
+| PP | Planned Points - Pontos Planejados por Sprint |
+| PC | Points Completed - Pontos Concluídos por Sprint |
+| PI | Incompleted Points - Pontos Incompletos por Sprint |
+| AP | Added Points - Pontos Adicionados por Sprint |
+| SC | Sprint's Cost - Orçamento gasto por Sprint |
+| TSC | Total de Sprints Concluídas |
+| TSE | Total de Sprints Estimadas |
+
+### Parâmetros das Releases
+
+| Nome | Definição | 
+| --- | --- |
+| PRP | Planned Release Points - Pontos Planejados por Release | 
+| RPC | Completed Release Points - Pontos Concluídos por Release | 
+| BAC | Bugeted Cost at Completion  - Orçamento estimado por Release |
+| AC | Actual Cost - Custo até o momento |
+| PV | Planned Value - Valor Planejado por Release |
+| EV | Earned Value - Valor Agregado por Release |
+<!-- 
+| APC | Porcentagem atual de completude da release - Essa é a proporção de pontos planejados para pontos completados | 
+| PPC | Planned Percent Complete - Percentual de planejamento completado |
+-->
+
+## Parâmetros Gerais do Projeto
+
+| Nome | Definição | 
+| --- | --- |
+| CPI | Cost Performance Index - Índice de Desempenho de Custos |
+| CPV | Cost Performance Variance - Variação de Desempenho de Custo |
+| SPI | Schedule Perfomance Index - Índice de Desempenho de Prazo |
+| SPV | Schedule Perfomance Index - Variação de Desempenho de Prazo |
+
+### Padrões do EVM e definições de equações
+
+A maneira de interpretar a saúde dos prazos nos permite analisar os valores Planejados e Agregados ao longo do projeto, de acordo com as seguintes fórmulas:
+
+| Equação | Definição | 
+| --- | --- |
+| BAC | Orçamento estimado para a Release, detalhado na tabela de custos |
+| AC = EV / BAC| Custo até o momento | 
+| PV = BAC * (TSC / TSE) | Valor Planejado |
+| EV = BAC * (RPC / PRP) | Valor Agregado|
+| CPI = EV / AC | Índice de Desempenho de Custos  |
+| CPV = EV - AC | Variação de Desempenho de Custo |
+| SPI = EV / PV | Índice de Desempenho de Prazo |
+| SPV = EV - PV | Variação de Desempenho de Prazo |
+<!-- | ETC = 1/CPI * (BAC - EV) | Estimativa para completar | -->
+<!-- | EAC = AC + ETC | Estimativa ao Commpletar | -->
+
+
+<div align="center">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIOACphqZ0tXQEuHC0ZsXgoB6D96Efg144DMzxV4Cwm53Wh3fHuo69m3q6O155fBZQqryB5o8zTQla/pubhtml?widget=true&amp;headers=false" width="100%" height="400px"></iframe>
+</div>
+
+
+
 ## Referências
 
 GLASSDOOR, Salário de estagiários Engenharia de Software, Brasil. mar. 2022 Disponível em: [https://www.glassdoor.com.br/Sal%C3%A1rios/estagi%C3%A1rio-de-desenvolvimento-de-software-sal%C3%A1rio-SRCH_KO0,41.htm](https://www.glassdoor.com.br/Sal%C3%A1rios/estagi%C3%A1rio-de-desenvolvimento-de-software-sal%C3%A1rio-SRCH_KO0,41.htm)
@@ -52,8 +139,13 @@ WRIKE, Agile EVM, 2022. Disponível em: [https://www.wrike.com/agile-guide/faq/w
 
 Preço para publicar um aplicativo na Play Store, Disponível em: [https://support.google.com/googleplay/android-developer/answer/10281818?hl=pt-BR](https://support.google.com/googleplay/android-developer/answer/10281818?hl=pt-BR)
 
+Infográfico O Globo. Ranking do custo anual por aluno nas federais (2016). Disponível em: [https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html](https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html)
+
+Gerenciamento De Valor Agregado (EVM) Em Projetos Ágeis. Disponível em: [https://hiflexconsultoria.com.br/gerenciamento-de-valor-agregado-evm-em-projetos-ageis/](https://hiflexconsultoria.com.br/gerenciamento-de-valor-agregado-evm-em-projetos-ageis/)
+
 ## Histórico de versão
 
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |
 | 11.03.2022 | 1.0 | Criação do documento | Rafaella Junqueira |
+| 10.04.2022 | 1.1 | Inclusão do Agile EVM | Rafaella Junqueira |
