@@ -107,24 +107,32 @@ Resultado da Composição do impacto do risco com a probabilidade da sua ocorrê
 | R13 | Equipamento de algum dos membros parar de funcionar | Danos elétricos nos equipamentos | Atraso na entrega do produto | Recursos |
 | R14 | Ambiente de trabalho inadequado | Problemas de conexão com a internet ou muito barulho | Baixa produtividade | Dependência |
 
-## Medidas de Gerenciamento e Mitigação
+## Medidas de Gerenciamento
+<div align="center">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN7irx1lkcPsqM2baFhbUxCX8SFU9a8SSxqwyr6jLMJGA2ssnnNb9NxuGmYyqFP4E4srwUnRxX0L6r/pubhtml?widget=true&amp;headers=false"width="100%" height="660px"></iframe>
 
-| ID | Impacto | Probabilidade | Nível | Mitigação |
-|---|---|---|---|---|
-| R01 | Sério | Baixa | Elevado | Validação contínua com clientes |
-| R02 | Moderado | Baixa | Médio | Comunicação efetiva e apoio entre os membros |
-| R03 | Sério | Moderada | Extremo | Estudo das tecnologias e pareamento para aprendizagem |
-| R04 | Pequeno | Moderada | Médio | Estudo das técnicas e pareamento para aprendizagem |
-| R05 | Sério | Baixo | Elevado | Estudo das técnicas e pareamento para aprendizagem |
-| R06 | Sério | Baixa | Elevado | Estudo da arquitetura e pareamento para aprendizagem |
-| R07 | Crítico | Muito Baixa | Elevado | Alinhamento constante com clientes para conhecimento suficiente para finalizar o desenvolvimento  |
-| R08 | Crítico | Moderada | Extremo | Cuidados com a saúde seguindo os protocolos de segurança |
-| R09 | Sério | Baixa | Médio | Validação contínua com clientes e comunicação efetiva entre os membros |
-| R10 | Sério | Muito Baixa | Elevado | Validação contínua com clientes |
-| R11 | Moderado | Baixa | Médio | Engajamento por parte dos membros |
-| R12 | Sério | Moderada | Extremo | Comunicação efetiva entre os membros e divisão justa das atividades para não haver sobrecarga |
-| R13 | Moderado | Moderada | Elevado | Comunicação efetiva entre membros e pareamento |
-| R14 | Moderado | Baixa | Médio | Comunicação efetiva entre membros e busca por alternativas válidas |
+</div>
+
+A planilha pode ser acessada clicando <a href="https://docs.google.com/spreadsheets/d/1XsEnX_2H0B3NNs1WuybEQ-0J8oTmQG4SPnW8Sv1Ev1Y/edit?usp=sharing)" target="_blank">aqui</a>.
+
+## Mitigação
+
+| ID | Mitigação |
+|---|---|
+| R01 | Validação contínua com clientes |
+| R02 | Comunicação efetiva e apoio entre os membros |
+| R03 | Estudo das tecnologias e pareamento para aprendizagem |
+| R04 | Estudo das técnicas e pareamento para aprendizagem |
+| R05 | Estudo das técnicas e pareamento para aprendizagem |
+| R06 | Estudo da arquitetura e pareamento para aprendizagem |
+| R07 | Alinhamento constante com clientes para conhecimento suficiente para finalizar o desenvolvimento  |
+| R08 | Cuidados com a saúde seguindo os protocolos de segurança |
+| R09 | Validação contínua com clientes e comunicação efetiva entre os membros |
+| R10 | Validação contínua com clientes |
+| R11 | Engajamento por parte dos membros |
+| R12 | Comunicação efetiva entre os membros e divisão justa das atividades para não haver sobrecarga |
+| R13 | Comunicação efetiva entre membros e pareamento |
+| R14 | Comunicação efetiva entre membros e busca por alternativas válidas |
 
 ## Referências
 
@@ -142,4 +150,4 @@ JUNCKES, Gabriel Dias & MORGADO, Paulo. Gerência de riscos em desenvolvimento d
 |Data | Versão | Descrição | Autor(es)
 | -- | -- | -- | -- |
 | 12.03.2022 | 1.0 | Criação do documento | Larissa Sales |
-
+| 11.04.2022 | 1.1 | Inclusão da planilha de gerenciamento dos riscos | Larissa Sales |
