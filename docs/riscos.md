@@ -113,6 +113,8 @@ Resultado da Composição do impacto do risco com a probabilidade da sua ocorrê
 
 </div>
 
+A planilha pode ser acessada clicando <a href="https://docs.google.com/spreadsheets/d/1XsEnX_2H0B3NNs1WuybEQ-0J8oTmQG4SPnW8Sv1Ev1Y/edit?usp=sharing)" target="_blank">aqui</a>.
+
 ## Mitigação
 
 | ID | Mitigação |
@@ -149,4 +151,3 @@ JUNCKES, Gabriel Dias & MORGADO, Paulo. Gerência de riscos em desenvolvimento d
 | -- | -- | -- | -- |
 | 12.03.2022 | 1.0 | Criação do documento | Larissa Sales |
 | 11.04.2022 | 1.1 | Inclusão da planilha de gerenciamento dos riscos | Larissa Sales |
-
