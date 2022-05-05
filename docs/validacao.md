@@ -4,25 +4,28 @@ Ao realizar a entrega de uma nova versão do aplicativo, foi repassado também u
 
 **Sprint 3**
 
-- [Adição de membros](https://forms.gle/414vtm9Me7RXLyuH6)
+| US | Issue | Formulário |
+| --- | --- | --- |
+| Adição de Membros | [#67](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/67) e [#96](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/96) | [Adição de Membros](https://forms.gle/414vtm9Me7RXLyuH6) |
+| Tutorial de Marcação de Áreas | [#60](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/60) | [Tutorial de Marcação de Áreas ](https://forms.gle/d3je6YtvBy4wgx9E8) |
 
-- [Tutorial](https://forms.gle/d3je6YtvBy4wgx9E8)
 
 **Sprint 5**
 
-- [Solicitação de cadastros](https://forms.gle/sgMz7CTtoTU1rYoB7) 
+| US | Issue | Formulário |
+| --- | --- | --- |
+| Solicitação de Cadastros | [#70](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/70) | [Solicitação de Cadastros](https://forms.gle/sgMz7CTtoTU1rYoB7) |
+| Validação de Cadastros | [#73](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/73) | [Validação de Cadastros](https://forms.gle/exNhwLiYXWEPE2Dp7) |
 
-- [Validação de cadastros](https://forms.gle/exNhwLiYXWEPE2Dp7) 
 
 **Sprint 7**
 
-- [Exportação de marcações](https://forms.gle/NxBbk1kdjWqrfmPB9)
-
-- [Validação de marcações](https://forms.gle/GSYkRPsHt6jibJGf8) 
-
-- [Cadastro de comunidades](https://forms.gle/nnBvEQDVd7oorxWn7)
-
-- [Modo offline](https://forms.gle/VqDWhV1umhSydmKD7)
+| US | Issue | Formulário |
+| --- | --- | --- |
+| Exportação de Marcações | [#72](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/72) | [Exportação de Marcações](https://forms.gle/NxBbk1kdjWqrfmPB9) |
+| Validação de Marcações | [#74](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/74) | [Validação de Marcações](https://forms.gle/GSYkRPsHt6jibJGf8) |
+| Cadastro de Comunidades | [#82](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/82) | [Cadastro de Comunidades](https://forms.gle/nnBvEQDVd7oorxWn7) |
+| Modo Offline | [#68](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/68), [#69](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/69) e [#101](https://github.com/fga-eps-mds/2021-2-Cartografia-social-Doc/issues/101) | [Modo Offline](https://forms.gle/VqDWhV1umhSydmKD7) |
 
 
 
