@@ -26,5 +26,6 @@ nav:
     - Plano de Custos: custos.md
     - Plano de Gerenciamento de Riscos: riscos.md
     - Documento de arquitetura: arquitetura.md
+    - Validação de US: validacao.md
   - Pipelines:
     - Pipelines Devops: pipelines.md
