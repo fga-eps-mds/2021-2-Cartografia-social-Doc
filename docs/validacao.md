@@ -1,6 +1,13 @@
+# <center> Validação das entregas
+
 Durante o desenvolvimento do projeto, nas reuniões semanais com a cliente, foram levantados quais seriam as histórias de usuário referentes à sprint e feita a validação dos critérios de aceitação dessas US's.
 
 Ao realizar a entrega de uma nova versão do aplicativo, foi repassado também um formulário para cada história de usuário entregue nessa versão. Esses formulários foram importantes para que pudéssemos obter retorno dos clientes/usuários sobre a experiência de uso da funcionalidade. 
+
+As respostas desses formulários foram avaliadas e o entendimento a respeito das melhorias também foram validados com a cliente durante as reuniões semanais. Dessa forma, foi possível perceber as correções necessárias, que foram feitas durante as sprints seguintes.
+
+Os formulários estão disponíveis nas tabelas abaixo, que foram descritas de acordo com a história de usuário e as issues relacionadas:
+
 
 **Sprint 3**
 
