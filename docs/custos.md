@@ -1,5 +1,32 @@
 # <center> Plano de Custos
 
+## Gastos totais
+<p align="justify">
+O documento de custos foi criado no dia 13/01/2022 e sua atualização se deu por meio da anexação de planilhas que atualizaram esta wiki, essencialmente estática, de forma dinâmica. a cada release lançada. O conteúdo das planilhas foi sendo incrementado durante o decorrer da disciplina e a cada release lançada.
+<br><br>
+Porém, para melhor entendimento ao final do semestre, criou-se esta seção inicial como forma de facilitar a visualização sobre os custos gastos e os custos totais estimados para o projeto. A primeira planilha disposta neste documento se refere aos gastos gerais com pessoal, equipamentos, custos adicionais, como internet ou energia, e possíveis custos com a publicação do produto em nuvem. A última tabela se refere aos gastos progressivos que foram despendidos com o desenvolvimento de cada release.
+<br><br>
+Desta forma, estimou-se o real custo do projeto durante a disciplina como o somatório do que fora gasto na semana 1, intitulada semana de pré desenvolvimento, com o total gasto durante o desenvolvimento das releases lançadas. O cálculo do que fora gasto não considera o custo com equipamentos, pois não foram adquiridos, nem os gastos com publicação do produto pois não houve publicação em ambientes pagos. Assim, tem-se:
+</p>
+
+>```Gasto total``` = ```Custo de desenvolvimento``` + ```Custo do período pré-desenvolvimento``` - ```Custo de publicação do produto`` - ```Custo com equipamentos```
+
+Deste modo, o resultado que melhor representa o gasto total com o projeto durante o semestre é:
+
+>```R$ 61.962,59``` = ```R$ 53.680,38``` + ```R$ 54.927,44``` - ```R$ 661,07``` - ```R$ 45.984,18```
+
+## Custo total
+<p align="justify">
+Os gastos listados acima consideram apenas o que realmente foi gasto exclusivamente durante o semestre, desconsiderando aquisições anteriores e gastos de publicação que não foram efetivados. Esta seção visa demonstrar o custo total estimado para o projeto caso fosse custeado de ponta a ponta pela equipe do Nortear Cartografias Sociais.
+Desta forma, o cálculo realizado é:
+</p>
+
+>```Custo total``` = ```Valor total acumulado (definido na Planilha 1)``` + ```Custo de desenvolvimento```
+
+Deste modo, o resultado que melhor representa o custo total estimado com o projeto até o final é:
+
+>```R$ 224.915,29`` = ```R$ 171.234,91``` + ```R$ 53.680,38```
+
 ## Custos de pessoal
 <p align="justify">
 O custo com pessoal considerando o contexto da disciplina, em que a equipe é formada por 11 integrantes de graduação em Engenharia de Software. O cálculo valor / hora utilizado foi baseado nos valores apresentados pelo Infográfico do <a href="https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html">O Globo</a> que conta com informações sobre universidades públicas de todo o Brasil.
@@ -42,6 +69,7 @@ Em termos de gastos com internet, a média de preço de internet em Brasília es
 O custo de publicação foi levado em consideração os o valores base para hospedagem em nuvem e de uma conta de desenvolvedor para  o para disponibilização do aplicativo nas loja de aplicativos PlayStore. A conta de desenvolvedor é cobrada em Dólar americano e para o cálculo do gasto, foi feita uma equivalência com o Real brasileiro de acordo com a cotação do dia 04 de abril de 2022.
 </p>
 
+### Planilha 1
 
 <div align="center">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRja77DvL978AQy33t9ew8fUiFNaPJSJ8W7uSPnAYWZKcEiPKDzO9gN5XV2-Npy10E6TjE_wics1pR2/pubhtml?widget=true&amp;headers=false" width="100%" height="452px"></iframe>
@@ -118,6 +146,7 @@ A maneira de interpretar a saúde dos prazos nos permite analisar os valores Pla
 <!-- | ETC = 1/CPI * (BAC - EV) | Estimativa para completar | -->
 <!-- | EAC = AC + ETC | Estimativa ao Commpletar | -->
 
+### Planilha 2
 
 <div align="center">
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIOACphqZ0tXQEuHC0ZsXgoB6D96Efg144DMzxV4Cwm53Wh3fHuo69m3q6O155fBZQqryB5o8zTQla/pubhtml?widget=true&amp;headers=false" width="100%" height="400px"></iframe>
@@ -149,3 +178,4 @@ Gerenciamento De Valor Agregado (EVM) Em Projetos Ágeis. Disponível em: [https
 | -- | -- | -- | -- |
 | 11.03.2022 | 1.0 | Criação do documento | Rafaella Junqueira |
 | 10.04.2022 | 1.1 | Inclusão do Agile EVM | Rafaella Junqueira |
+| 05.05.2022 | 1.2 | Atualização e finalização do documento  | Rafaella Junqueira |
