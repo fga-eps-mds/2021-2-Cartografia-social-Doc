@@ -16,6 +16,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Organização:
+    - Como contribuir: contribuir.md
+    - Código de conduta: conduta.md
     - Metodologia utilizada: metodologia.md
     - Heatmap: heatmap.md
     - Quadro de conhecimento: conhecimentos.md
@@ -27,5 +29,6 @@ nav:
     - Plano de Gerenciamento de Riscos: riscos.md
     - Documento de arquitetura: arquitetura.md
     - Validação de US: validacao.md
+    - Manual de instalação: manual.md
   - Pipelines:
     - Pipelines Devops: pipelines.md
